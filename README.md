@@ -20,7 +20,7 @@ Python, Gurobi, travelling salesman problem, insertion heuristic, 2-exchange, 2-
 | File | Description |
 |---|---|
 | [code/delivery_routing_tsp.ipynb](code/delivery_routing_tsp.ipynb) | Notebook with the heuristics and the exact model |
-| [docs/report.pdf](docs/report.pdf) | Project report |
+| [docs/report.pdf](docs/report.pdf) | Printed notebook with the code, outputs and explanations |
 
 The notebook reads the company's distance matrix from an Excel file that is not included here. Running the exact model also needs a Gurobi license.
 
